@@ -1,5 +1,5 @@
 {
-  "name": "@nasfernane/enjoi",
+  "name": "@chargepoly/enjoi",
   "version": "9.0.2",
   "license": "Apache 2.0",
   "description": "Converts json-schema to Joi schema. Fork of tlivings project.",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nasfernane/enjoi.git"
+    "url": "git://github.com/Chargepoly/enjoi.git"
   },
   "engines": {
     "node": ">=8"
